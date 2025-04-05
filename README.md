@@ -7,7 +7,7 @@
 1. 克隆儲存庫：
    
 
-   git clone https://github.com/你的用戶名/你的儲存庫名.git
+ https://shumao0802.github.io/0406/
    
 
 
